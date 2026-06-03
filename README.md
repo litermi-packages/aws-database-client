@@ -11,9 +11,9 @@ The `aws database client` package to search database client aws .
 ## Installation
 
 
-Require the `litermi/aws-database-client` package in your `composer.json` and update your dependencies:
+Require the `litermi-packages/aws-database-client` package in your `composer.json` and update your dependencies:
 ```sh
-composer require litermi/aws-database-client
+composer require litermi-packages/aws-database-client
 ```
 
 

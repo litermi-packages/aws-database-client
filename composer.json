@@ -1,5 +1,5 @@
 {
-    "name": "litermi/aws-database-client",
+    "name": "litermi-packages/aws-database-client",
     "description": "package to search database client aws",
     "type": "library",
     "license": "MIT",
